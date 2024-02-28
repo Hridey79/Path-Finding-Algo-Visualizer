@@ -330,7 +330,7 @@ visualizeBtn.addEventListener('click', () => {
         case 'BFS':
             BFS();
             break;
-        case 'Dijkstar\'s':
+        case 'Dijkstra\'s':
             Dijsktra();
             break;
         case 'greedy':
